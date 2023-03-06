@@ -1,4 +1,4 @@
-body {
+.principal {
     background-color: #CCCCCC;
 }
 
@@ -17,4 +17,12 @@ em strong {
 
 .itens {
     font-style: italic;
+}
+
+.beneficios {
+    background-color: #ffffff;
+}
+
+h2 {
+    text-align: center;
 }
